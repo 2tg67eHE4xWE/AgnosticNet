@@ -1,0 +1,9 @@
+Python 3 support libraries for various vendors
+
+The goal of this project is to have a library to support the majority of equipment in most environment with Python 3
+
+This is a work in progress, as things are solidified I will start placing examples in.
+
+This project will be using rinse for SOAP calls at the current time and lxml for XML interaction. If you would like to
+contribute please let me know as this will take a few months with me alone working on it. If start to use it I hope you
+enjoy it, if you don't thanks for at least giving it a try!
